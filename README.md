@@ -3,14 +3,14 @@
 ## Goals
 
 ### As a tester
-### I am able to create and clone a new repo in github [X]
-### I am able to create a new playwright JS project [X]
-### I am able to configure my project [X]
-### I am able to add extra libraries to my node js project [X]
-### I am able to create a test script which meets test case requirements [X]
+### I am able to create and clone a new repo in github []
+### I am able to create a new playwright JS project []
+### I am able to configure my project []
+### I am able to add extra libraries to my node js project []
+### I am able to create a test script which meets test case requirements []
 ### I am able to use before / after hooks with my tests []
 ### I am able to create reusable functions to call in my test []
-### I am able to run my tests [X]
+### I am able to run my tests []
 ### I am able to upload my work to github []
 
 ## Test Case
